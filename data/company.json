@@ -1,0 +1,43 @@
+{
+  "name": "NexSync Labs",
+  "tagline": "Software, websites and apps for businesses that mean business.",
+  "description": "NexSync Labs is a software studio in Rampurhat, Birbhum, building ERP systems, dynamic websites, invoice management software, school software and mobile apps for businesses across West Bengal and the Jharkhand border districts.",
+  "url": "https://nexsynclabs.vercel.app",
+  "email": "mukherjeeganesh2001@gmail.com",
+  "phoneDisplay": "+91 987659xxxx",
+  "phone": "+919876543210",
+  "whatsapp": "919876543210",
+  "address": {
+    "locality": "Rampurhat",
+    "district": "Birbhum",
+    "region": "West Bengal",
+    "postalCode": "731224",
+    "country": "India",
+    "countryCode": "IN",
+    "line": "Rampurhat, Birbhum, West Bengal 731224"
+  },
+  "geo": {
+    "latitude": 24.1763,
+    "longitude": 87.786
+  },
+  "hours": "Monday to Saturday, 10 am to 7 pm",
+  "responseTime": "We usually reply within one working day.",
+  "mapQuery": "Rampurhat, Birbhum, West Bengal 731224",
+  "serviceAreas": [
+    "Rampurhat",
+    "Tarapith",
+    "Nalhati",
+    "Sainthia",
+    "Suri",
+    "Dubrajpur",
+    "Bolpur",
+    "Santiniketan",
+    "Pakur",
+    "Dumka",
+    "Jamtara",
+    "Malda",
+    "Berhampore",
+    "Durgapur",
+    "Asansol"
+  ]
+}

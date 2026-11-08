@@ -1,0 +1,42 @@
+# NexSync Labs
+
+> NexSync Labs is a software studio based in Rampurhat, Birbhum, West Bengal, India. The studio builds ERP software, customised ERP systems, dynamic websites, SEO-optimised websites, invoice management systems, iOS and Android apps, food delivery apps, astrology apps and school management software.
+
+Contact: hello@nexsynclabs.com | +91 98765 43210
+Address: Rampurhat, Birbhum, West Bengal 731224, India
+Hours: Monday to Saturday, 10 am to 7 pm IST
+Website: https://nexsynclabs.vercel.app
+
+## Services
+
+- [ERP Software](https://nexsynclabs.vercel.app/services/erp-software): Inventory, purchase, sales, accounts and reporting for mills, cold storages and distributors.
+- [Customised ERP Systems](https://nexsynclabs.vercel.app/services/custom-erp): Bespoke ERP modules for non-standard workflows, multi-branch operations and integrations.
+- [Dynamic Websites](https://nexsynclabs.vercel.app/services/dynamic-website): Content-managed business websites with admin panels, catalogues and enquiry management.
+- [SEO-Optimised Websites](https://nexsynclabs.vercel.app/services/seo-websites): Fast, crawlable, schema-rich websites built for local search.
+- [Invoice Management System](https://nexsynclabs.vercel.app/services/invoice-management): GST billing, ledgers, payment tracking and monthly reports.
+- [iOS & Android Apps](https://nexsynclabs.vercel.app/services/mobile-apps): Cross-platform mobile apps for customers, staff and internal operations.
+- [Food Delivery Apps](https://nexsynclabs.vercel.app/services/food-delivery-app): Customer app, delivery partner app and restaurant dashboard for local food businesses.
+- [Astrology Apps](https://nexsynclabs.vercel.app/services/astrology-app): Kundli, horoscope, consultation and subscription features with Bengali and English interfaces.
+- [School Management Software](https://nexsynclabs.vercel.app/services/school-management): Admissions, attendance, fees, exams and parent communication.
+
+## Service areas
+
+NexSync Labs has one studio in Rampurhat. The following are service areas where the studio works and aims to rank for local searches — not branch offices.
+
+Birbhum: Rampurhat, Tarapith, Nalhati, Sainthia, Suri, Dubrajpur, Bolpur, Santiniketan.
+Jharkhand border: Pakur, Dumka, Jamtara.
+Further in West Bengal: Malda, Berhampore, Durgapur, Asansol.
+
+Service-area pages: https://nexsynclabs.vercel.app/service-areas
+
+## Pages
+
+- [Home](https://nexsynclabs.vercel.app/)
+- [Services](https://nexsynclabs.vercel.app/services)
+- [Service Areas](https://nexsynclabs.vercel.app/service-areas)
+- [About the studio](https://nexsynclabs.vercel.app/about)
+- [Contact](https://nexsynclabs.vercel.app/contact)
+
+## Crawling
+
+Search engines, AI crawlers and other automated agents are welcome to read and cite this website. See https://nexsynclabs.vercel.app/robots.txt and https://nexsynclabs.vercel.app/sitemap.xml.
