@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Rice mills & cold storage",
+    "line": "Purchase, milling, stock and despatch records that match the books."
+  },
+  {
+    "name": "Traders & distributors",
+    "line": "GST billing, ledgers and dues for businesses with many parties."
+  },
+  {
+    "name": "Schools & coaching centres",
+    "line": "Admissions, fees, attendance and parent communication in one place."
+  },
+  {
+    "name": "Restaurants & cloud kitchens",
+    "line": "Direct ordering apps, delivery operations and daily sales reports."
+  },
+  {
+    "name": "Hotels & homestays",
+    "line": "Direct booking websites, enquiry handling and seasonal pricing."
+  },
+  {
+    "name": "Clinics & diagnostic centres",
+    "line": "Appointment systems, patient records and billing that stays tidy."
+  },
+  {
+    "name": "Stone & building material",
+    "line": "Dispatch, trip, weighbridge and party accounts for heavy trade."
+  },
+  {
+    "name": "Astrologers & wellness",
+    "line": "Consultation apps, content and booking for trust-led practices."
+  }
+]
